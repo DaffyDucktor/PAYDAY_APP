@@ -1,0 +1,2 @@
+rootProject.name = "EC_F_Payday"
+include ':app'
